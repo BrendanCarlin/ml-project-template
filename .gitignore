@@ -1,0 +1,22 @@
+# Ignore all data files, but keep the folder
+data/*
+!data/.gitkeep
+
+# Byte-compiled files and virtual environments
+__pycache__/
+*.py[cod]
+env/
+.venv/
+.conda/
+
+# Jupyter junk
+.ipynb_checkpoints/
+
+# VS Code and OS-specific
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.egg-info/
