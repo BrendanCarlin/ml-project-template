@@ -2,6 +2,8 @@
 
 A reusable template to bootstrap local machine learning projects using Conda, PyTorch, TensorFlow, and JupyterLab. Supports GPU acceleration when available.
 
+> 🧰 **To start a new project from this template**, click the green **“Use this template”** button on GitHub.
+
 ---
 
 ## 🚀 Getting Started
