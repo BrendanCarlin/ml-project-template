@@ -1,5 +1,9 @@
 ![ML Project Template Banner](docs/banner.png)
 
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![License](https://img.shields.io/github/license/BrendanCarlin/ml-project-template)
+![Template](https://img.shields.io/badge/repo-template-success)
+
 # ML Project Template
 
 A reusable template to bootstrap local machine learning projects using Conda, PyTorch, TensorFlow, and JupyterLab. Supports GPU acceleration when available.
