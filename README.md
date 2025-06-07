@@ -1,3 +1,5 @@
+![ML Project Template Banner](docs/banner.png)
+
 # ML Project Template
 
 A reusable template to bootstrap local machine learning projects using Conda, PyTorch, TensorFlow, and JupyterLab. Supports GPU acceleration when available.
